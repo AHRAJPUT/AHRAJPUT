@@ -1,0 +1,174 @@
+*{
+    margin: 0%;
+
+    padding: 0%;
+}
+.container{
+    width: 1100px;
+    margin: 0 auto;
+    max-width: 1200px;
+    min-width: 500px;
+}
+.clear{
+    clear:both;
+}
+.nav{
+    background-color:#316dc3;
+color: aliceblue;
+
+
+}
+.icons{
+    margin: 2px 1px;
+    color: aliceblue;
+display: inline;
+float: left;
+}
+.button1{
+    padding: 15px;
+    border-spacing: 2px;
+  border: lightgrey;
+float: right;
+color: rgb(128, 238, 170);
+}
+
+
+.nav2{
+    background-color: rgb(241, 239, 239);
+    
+
+}
+.logo2{
+    float: left;
+}
+.dropdown{
+border-radius: 10px;
+padding: 10px 10px;
+font-size: 8px;
+float: right;
+margin: 5px;
+
+
+}
+.inline{
+    display: inline;
+}
+img.image{
+    padding: 20px;
+    display: block;
+}
+.para{
+    background-color: royalblue;
+
+}
+    
+    
+.intro{
+    padding: 50px;
+ text-align: center;
+    color: rgb(51, 40, 218);
+}    
+.intro2{
+    padding: 10px;
+ text-align: center;
+    color: rgb(5, 107, 5);
+}
+.logo1{
+    text-align: center;
+ align-items: center;
+     padding: 10px;
+     margin-left: 20px;
+}
+.alltext{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center ;
+}
+.t1{
+    border-spacing: 1px;
+    text-align: center;
+    
+}
+.one1{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    width: 3.33%;
+    border-spacing: 10px; 
+    height: 10px;
+}
+
+td:hover{
+    background-color: cyan;
+}
+.lheading{
+    color: rgb(51, 112, 172);
+    display: inline;
+}
+
+.l1heading{
+    color: rgb(51, 112, 172);
+    display: inline;
+    margin-left: 250px;
+    
+}
+.lfheading{
+    color: rgb(51, 112, 172);
+    display: inline;
+width: 100%;   
+padding: 50px;   
+margin:10px;
+}
+T2{
+   display: inline;
+    border-spacing: 1px;
+float: left;  
+}.one2{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    width: 50%;
+    border-spacing: 100px; 
+    height: 10px;
+}
+h3.dfme{
+    display: inline;
+    color: white;
+    padding: 5px;
+    
+    
+}
+.dfme1{
+    background-color: #2655e8;
+    height: 150px;
+
+}
+
+.inline1{
+ float: right;
+    margin-left: 600px;
+    
+}
+.sm{
+    margin-left: 250px;
+}
+.intro3{
+    
+     color: rgb(119, 228, 119); }
+
+.floatleft{
+    float: left;
+}
+.floatright{
+    float: right;
+}
+.iinline{
+    display: inline;
+    width: 25%;
+}
+.lb{
+    background-color: #25272e;
+    color: whitesmoke;
+}
+.lastbar{
+    background-color: #316dd9;
+    color: white;
+    padding-left: 80px;
+}
